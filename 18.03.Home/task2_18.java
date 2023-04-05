@@ -50,7 +50,7 @@ public class task2_18 {
             newMap.put(name,newMap.get(name) + 1);    
         } 
         else {
-        nameCount.put(name, 1); 
+        newMap.put(name, 1); 
          }
         
         }
